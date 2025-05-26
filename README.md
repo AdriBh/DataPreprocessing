@@ -55,8 +55,10 @@ The [Titanic dataset](https://www.kaggle.com/competitions/titanic/data) from Kag
 
 ## 📂 File Structure
 
-├── titanic.csv # Dataset file
-├── preprocessing_script.ipynb # Main Jupyter Notebook with code
+├── Titanic-Dataset.csv # Dataset file
+
+├── Data-cleaning-and-preprocessing-ipynb.ipynb # Main Jupyter Notebook with code
+
 ├── README.md # This file
 
 
